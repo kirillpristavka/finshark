@@ -171,3 +171,5 @@ C:\Users\Loubna Mellouki\Documents\FinShark\api\bin\Debug\net9.0\Microsoft.AspNe
 C:\Users\Loubna Mellouki\Documents\FinShark\api\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\Loubna Mellouki\Documents\FinShark\api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 C:\Users\Loubna Mellouki\Documents\finshark\api\obj\Debug\net9.0\api.sourcelink.json
+C:\Users\Loubna Mellouki\Documents\finshark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Loubna Mellouki\Documents\finshark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
